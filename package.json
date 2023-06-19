@@ -1,0 +1,24 @@
+{
+  "name": "random-string-msg-col",
+  "version": "1.0.0",
+  "description": "Random string messages for npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:oscarc73/random-string-msg-col.git"
+  },
+  "keywords": [],
+  "author": "Oscar Carabali <oscar.jcarabali@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "git@github.com:oscarc73/random-string-msg-col.git"
+  },
+  "homepage": "git@github.com:oscarc73/random-string-msg-col.git",
+  "bin": {
+    "random-str-msn-col": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
